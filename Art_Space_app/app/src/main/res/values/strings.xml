@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="previous_button_text">Previous</string>
+    <string name="next_button_text">Next</string>
+
+    // art work titles
+    <string name="arduino_nano_quadcopter_title">QuadCopter using arduino naNo.</string>
+    <string name="qr_code_title">QR code generator.</string>
+    <string name="electronic_flower_title">Flower made by electronic pcb.</string>
+    <string name="smart_pocket_printer_title">Smart pocket printer.</string>
+    <string name="robomaster_car_drone_title">Robo master Car drone.</string>
+    <string name="tiny_cube_satallite">Tiny Satallite.</string>
+</resources>
