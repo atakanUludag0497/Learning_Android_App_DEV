@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KelimeyiBul</string>
+
+    <string name="instructions">Harfleri karışmış kelimeyi bulmaya çalış.</string>
+    <string name="skip">Skip</string>
+    <string name="submit">Submit</string>
+    <string name="score">Puan: %d</string>
+    <string name="word_count">%d/10</string>
+    <string name="enter_your_word">Tahmin ettiğin kelimeyi gir :</string>
+    <string name="congratulations">Tebrikler!</string>
+    <string name="you_scored">"Senin puanın: %d"</string>
+    <string name="now_you_scored">"Bildin ! + %d puan"</string>
+    <string name="contine">"Devam ke."</string>
+    <string name="exit">Çıkış</string>
+    <string name="play_again">Tekrar Oyna !</string>
+    <string name="wrong_guess">Yanlış Tahmin!</string>
+</resources>
